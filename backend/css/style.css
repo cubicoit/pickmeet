@@ -1,0 +1,16 @@
+.form-signin {
+    max-width: 330px;
+    padding: 15px;
+    margin: 0 auto;
+}
+
+.formerror {
+    background-color: #eba99c;
+    border: solid 1px red;
+    margin: 1em 0 1em 0;
+    color: darkred;
+    padding: 1em;
+
+    transition-property: all!important;
+    transition-duration: 0.3s;
+}
